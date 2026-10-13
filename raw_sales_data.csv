@@ -1,0 +1,12 @@
+Customer,City,Sales,Category
+Arun,Chennai,1200.0,Clothing
+Priya,Vellore,1500.0,Electronics
+Kumar,chennai,,Clothing
+Divya,Katpadi,900.0,Food
+Arun,Chennai,1200.0,Clothing
+Rahul,Vellore,1800.0,Food
+Priya,VELLORE,1500.0,Electronics
+Vijay,Arcot,,Clothing
+Meena,Arcot,1100.0,Food
+Kumar,Katpadi,950.0,Clothing
+Arun,Chennai,1200.0,Clothing
